@@ -2,7 +2,7 @@
 
 This exercise designed to help you become familiar with the steps you'll need to follow to work with the RWD codebase after the migration from SVN to Git.
 
-## Steps
+## Steps to follow
 
 1. **Fork the repository**
 
